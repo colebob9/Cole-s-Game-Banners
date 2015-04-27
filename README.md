@@ -1,6 +1,6 @@
 # Cole's Game Banners!
 
-A collection of Rainmeter skins for certain video games!
+A collection of Rainmeter skins for certain video games! Features in-game screenshots as backgrounds! 
 
 Inspired by ZibbeZabbe's Gamebanner Collection. 
 (http://zibbezabbe.deviantart.com/art/Gamebanner-Collection-V-2-437811251)
