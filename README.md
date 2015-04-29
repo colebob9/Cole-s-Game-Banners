@@ -9,5 +9,6 @@ Inspired by [ZibbeZabbe's Gamebanner Collection](http://zibbezabbe.deviantart.co
 * No stretched or low quality logos
 * In-game screenshots as backgrounds
 * Customizable!
+* Includes raw Paint.NET files for custom banners
 
 Create an issue marked "addition" to suggest to make a banner for a game! You can also make a push request and add to the collection!
